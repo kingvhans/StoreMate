@@ -11,6 +11,4 @@ School Project Work android/IOS app built with React Native and Typescript
 - Uses Firebase for Authentication of Users
 - Uses Firestore for storing inventory items
 
-## Demo Video
-- https://youtu.be/3DQCltFTX64
 "# StoresMate" 
